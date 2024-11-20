@@ -6,5 +6,4 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface PoemRepository extends JpaRepository<Poem, Long> {
-
 }
